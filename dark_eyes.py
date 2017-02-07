@@ -21,7 +21,6 @@ for i in range(1, 10):
         if not tmp:
             dbname += chr(j)
             break
-        print str(j)
 print "Password is : " + dbname
     
     
