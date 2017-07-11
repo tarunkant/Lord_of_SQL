@@ -20,7 +20,6 @@ for i in range(1, 10):
         if tmp:
             dbname += chr(int(str(j), 8))
             break
-        print str(j)
 print "Password is : " + dbname
         
            
